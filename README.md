@@ -1,6 +1,3 @@
-# Matplotlib_Challenge
-Matplotlib Homework
-
 Hoooooo boy! Well, we got through this one, didn't we? I struggled hard with this assignment and I'm beginning to think that they are designed that way. Trying to find out to keep the correct data associated with its partner data throughout many manipulations (sorting by individual mice, keeping drug regimens associated with those mice, getting the right columns and rows organized appropriately...you know, Data Science stuff). 
 
 There is a strong correlation between mouse weight and tumor volume on the Capomulin regimen. This says that the drug is less effective as mouse weights increase. Perhaps the drug dosage should also be increased in relation to totoal body weight. 
